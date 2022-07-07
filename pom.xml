@@ -11,7 +11,7 @@
         <jdk.version>11</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.jupiter.version>5.4.0</junit.jupiter.version>
-        <jetty.version>9.4.26.v20200117</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
     </properties>
 
     <dependencies>
